@@ -15,5 +15,5 @@ The states that you have missed will be stored in a list separately for you to v
   <li>Python Library: Pandas</li>
   <li>Python Library: Turtle</li>
 </ul>
-<em>Turtle uses tkinter behind the scenes in many of its methods, such as to add the image</em>
+<em>Turtle uses tkinter behind the scenes in many of its methods, such as to add the image.</em> <br>
 <em>Only use gif format images. Turtle recognizes gif only</em>
