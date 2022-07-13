@@ -1,6 +1,10 @@
 # Indian-States-Name-Guessing-Quiz-In-Python
 A simple quiz where you have to guess the name of Indian States. Program written in Python.
 
+<div>
+  <img src="./code_output.JPG" alt='Code Output'>
+</div>
+
 # Hit the Run button
 Enter the name of a state, without worrying about the case of text. <br>
 If it is correct, the state name will be displayed on the map, if not, nothing will happen. <br>
