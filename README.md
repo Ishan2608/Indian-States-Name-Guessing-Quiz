@@ -19,7 +19,7 @@ The states that you have missed will be stored in a list separately for you to v
 <h4> Step 1: Structure </h4>
 <p>
   You need to create only one python file, main.py <br>
-  You need a blank map, which needs to be of gif format. The projects uses python turtle for GUI, which recognized only gif format images.
+  You need a blank map, which needs to be of gif format. The projects uses python turtle for GUI, which recognizes only gif format images.
 </p>
 
 <h4> Step 2: Setting up the Screen </h4>
