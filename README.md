@@ -13,6 +13,11 @@ If you have guessed all of the states, the game will automatically quit. <br>
 The states that you have missed will be stored in a list separately for you to view and learn them. If you haven't missed any, no file is created.
 
 <hr>
+<h1> Program Flowchart </h1>
+<div>
+  <img src="./Indian States Names Quiz Flowchart.png" alt='Program Flowchart'>
+</div>
+<hr>
 
 # Guid to Build this Projects
 
